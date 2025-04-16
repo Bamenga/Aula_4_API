@@ -1,49 +1,114 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.1.3">
   <diagram name="Página-1" id="FbIsrcHs8mvWrBGXNMo_">
-    <mxGraphModel dx="2049" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2390" dy="1287" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="f8HS52tVX_vnU_jdC3PO-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="f8HS52tVX_vnU_jdC3PO-5" target="f8HS52tVX_vnU_jdC3PO-9">
+        <mxCell id="f8HS52tVX_vnU_jdC3PO-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;strokeWidth=3;" edge="1" parent="1" source="f8HS52tVX_vnU_jdC3PO-5" target="f8HS52tVX_vnU_jdC3PO-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <object placeholders="1" c4Name="Médico" c4Type="Usuário" c4Description="Membro da equipe interna do hosptal (Farmácia, Enfermagem, Médicos...)" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="f8HS52tVX_vnU_jdC3PO-5">
+        <object placeholders="1" c4Name="Médico" c4Type="Usuário" c4Description="Utiliza a aplicação para cadastro de prescrições para pacientes internos" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="f8HS52tVX_vnU_jdC3PO-5">
           <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" vertex="1" parent="1">
-            <mxGeometry x="90" y="40" width="200" height="180" as="geometry" />
+            <mxGeometry x="148" y="580" width="200" height="180" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="f8HS52tVX_vnU_jdC3PO-9" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=0;fillColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="730" y="520" width="380" height="120" as="geometry" />
+        <mxCell id="f8HS52tVX_vnU_jdC3PO-9" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=0;fillColor=#1E598F;" vertex="1" parent="1">
+          <mxGeometry x="618.33" y="490" width="601.67" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="f8HS52tVX_vnU_jdC3PO-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="f8HS52tVX_vnU_jdC3PO-9">
+        <mxCell id="f8HS52tVX_vnU_jdC3PO-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;strokeWidth=3;" edge="1" parent="1" source="f8HS52tVX_vnU_jdC3PO-30" target="f8HS52tVX_vnU_jdC3PO-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="430" y="220" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f8HS52tVX_vnU_jdC3PO-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="f8HS52tVX_vnU_jdC3PO-9">
+        <mxCell id="f8HS52tVX_vnU_jdC3PO-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;strokeWidth=3;" edge="1" parent="1" source="f8HS52tVX_vnU_jdC3PO-31" target="f8HS52tVX_vnU_jdC3PO-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="650" y="220" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f8HS52tVX_vnU_jdC3PO-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="f8HS52tVX_vnU_jdC3PO-9">
+        <mxCell id="f8HS52tVX_vnU_jdC3PO-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;strokeWidth=3;" edge="1" parent="1" source="f8HS52tVX_vnU_jdC3PO-32" target="f8HS52tVX_vnU_jdC3PO-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="870" y="220" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f8HS52tVX_vnU_jdC3PO-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="f8HS52tVX_vnU_jdC3PO-9">
+        <mxCell id="f8HS52tVX_vnU_jdC3PO-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;strokeWidth=3;" edge="1" parent="1" source="f8HS52tVX_vnU_jdC3PO-33" target="f8HS52tVX_vnU_jdC3PO-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1090" y="230" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f8HS52tVX_vnU_jdC3PO-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="f8HS52tVX_vnU_jdC3PO-9">
+        <mxCell id="f8HS52tVX_vnU_jdC3PO-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;strokeWidth=3;" edge="1" parent="1" source="f8HS52tVX_vnU_jdC3PO-35" target="f8HS52tVX_vnU_jdC3PO-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1330" y="230" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f8HS52tVX_vnU_jdC3PO-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="f8HS52tVX_vnU_jdC3PO-9">
+        <mxCell id="f8HS52tVX_vnU_jdC3PO-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;strokeWidth=3;" edge="1" parent="1" source="f8HS52tVX_vnU_jdC3PO-36" target="f8HS52tVX_vnU_jdC3PO-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1550" y="230" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="Administrador" c4Type="Usuário" c4Description="Utiliza a aplicação para cadastrar usuários e suas permissões, e permite o gerenciamento dos hospitais" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="f8HS52tVX_vnU_jdC3PO-30">
+          <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" vertex="1" parent="1">
+            <mxGeometry x="148" y="310" width="200" height="180" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Enfermeiro" c4Type="Usuário" c4Description="Utiliza o sistema para delegar os pacientes para seus técnisos, acessa as anotações de enfermagem e realiza a liberação de medicações" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="f8HS52tVX_vnU_jdC3PO-31">
+          <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" vertex="1" parent="1">
+            <mxGeometry x="620" y="790" width="200" height="180" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Técnico de Enfermagem" c4Type="Usuário" c4Description="Utiliza o sistema para permissionamento na coleta de medicações e para realizar as anotações de enfermagem" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="f8HS52tVX_vnU_jdC3PO-32">
+          <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" vertex="1" parent="1">
+            <mxGeometry x="620" y="200" width="200" height="180" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Farmácia" c4Type="Usuário" c4Description="Utiliza o sistema para cadastrar medicações, controlar o estoque, liberar medicações e registrar solicitações emergenciais" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="f8HS52tVX_vnU_jdC3PO-33">
+          <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" vertex="1" parent="1">
+            <mxGeometry x="1020" y="200" width="200" height="180" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="f8HS52tVX_vnU_jdC3PO-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;strokeWidth=3;" edge="1" parent="1" source="f8HS52tVX_vnU_jdC3PO-34" target="f8HS52tVX_vnU_jdC3PO-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Name="Financeiro" c4Type="Usuário" c4Description="Utiliza o sistema para consultar o consumo de medicações através de dashboards" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="f8HS52tVX_vnU_jdC3PO-34">
+          <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" vertex="1" parent="1">
+            <mxGeometry x="1020" y="800" width="200" height="180" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Recepção" c4Type="Usuário" c4Description="Utiliza o sistema para cadastro de pacientes" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="f8HS52tVX_vnU_jdC3PO-35">
+          <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" vertex="1" parent="1">
+            <mxGeometry x="1500" y="310" width="200" height="180" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Auditor" c4Type="Usuário" c4Description="Utiliza o sistema para acessar os logs e registros de ações no sistema" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="f8HS52tVX_vnU_jdC3PO-36">
+          <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" vertex="1" parent="1">
+            <mxGeometry x="1500" y="580" width="200" height="180" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="f8HS52tVX_vnU_jdC3PO-40" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;MedFlow&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 20px;&quot;&gt;Sistema WEB que oferece a integração entre as áreas do hospital, fornecendo um rastreio de medicações, uma gestão de permissionamentos e uma geração online de dashboards de consumo de medicações.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="618.33" y="510" width="601.67" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="f8HS52tVX_vnU_jdC3PO-42" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Cadastro de usuários e monitoramento de insituições&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="350" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="f8HS52tVX_vnU_jdC3PO-43" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Cadastro de prescrições&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="710" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f8HS52tVX_vnU_jdC3PO-44" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Preenchimento de anotação de enfermagem&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="390" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="f8HS52tVX_vnU_jdC3PO-45" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Cadastro e gestão de estoque de medicações&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1115" y="390" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="f8HS52tVX_vnU_jdC3PO-47" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Cadastro de pacientes&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1315" y="400" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f8HS52tVX_vnU_jdC3PO-48" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Consulta de logs&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="710" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f8HS52tVX_vnU_jdC3PO-49" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Gestão de usuários de sua equipe e preenchimento de anotações de enfermagem&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="690" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="f8HS52tVX_vnU_jdC3PO-50" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Consulta de Dashboard&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="685" width="180" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
